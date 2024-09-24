@@ -1,0 +1,5 @@
+Add a task: Allows input of task title, description, and due date.
+Update a task: You can modify a task’s details.
+List tasks: Lists pending or completed tasks.
+Mark task completed: Changes the status of a task to completed.
+Overdue tasks: Lists tasks that are past their due date.
